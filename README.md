@@ -23,19 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizei IA para gerar um e-book sobre IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Tulizei Chat GPT e Leonardo AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Geramos o prompt no chat GPT. O texto gerado foi editadono word e utilizei Leonardo AI para pegar imagens.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Não foi fácil com o nível de conhecimento adquirido
 ```
 
 ### Exemplos e Insigths
